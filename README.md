@@ -1,7 +1,7 @@
 # 📊 Online Retail — CEO Executive Dashboard
 ### Built with Power BI | MySQL | Power Query | DAX
 
-![Dashboard Preview](online_sales_dashboard.PNG)
+![Dashboard Preview](Online Retail Dashboard.png)
 
 > An interactive business intelligence dashboard analyzing **541,000+ rows** of real UK e-commerce transaction data, built to give executives a clear, filterable view of revenue, customers, products and market performance.
 
