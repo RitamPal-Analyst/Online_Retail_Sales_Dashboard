@@ -29,6 +29,10 @@ SELECT *
 FROM retail
 WHERE customerID IS NULL OR customerID = '';
 
+SELECT *
+FROM retail
+WHERE Description IS NULL OR Description = '';
+
 set sql_safe_updates = 0;
 
 DELETE FROM retail
